@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactwork/static/css/main.84ece478.chunk.css",
+    "main.js": "/reactwork/static/js/main.99e33c2d.chunk.js",
+    "main.js.map": "/reactwork/static/js/main.99e33c2d.chunk.js.map",
+    "runtime-main.js": "/reactwork/static/js/runtime-main.ac0d44fb.js",
+    "runtime-main.js.map": "/reactwork/static/js/runtime-main.ac0d44fb.js.map",
+    "static/css/2.ae63a4b7.chunk.css": "/reactwork/static/css/2.ae63a4b7.chunk.css",
+    "static/js/2.fc126a82.chunk.js": "/reactwork/static/js/2.fc126a82.chunk.js",
+    "static/js/2.fc126a82.chunk.js.map": "/reactwork/static/js/2.fc126a82.chunk.js.map",
+    "static/js/3.310eb14a.chunk.js": "/reactwork/static/js/3.310eb14a.chunk.js",
+    "static/js/3.310eb14a.chunk.js.map": "/reactwork/static/js/3.310eb14a.chunk.js.map",
+    "index.html": "/reactwork/index.html",
+    "static/css/2.ae63a4b7.chunk.css.map": "/reactwork/static/css/2.ae63a4b7.chunk.css.map",
+    "static/css/main.84ece478.chunk.css.map": "/reactwork/static/css/main.84ece478.chunk.css.map",
+    "static/js/2.fc126a82.chunk.js.LICENSE.txt": "/reactwork/static/js/2.fc126a82.chunk.js.LICENSE.txt",
+    "static/js/3.310eb14a.chunk.js.LICENSE.txt": "/reactwork/static/js/3.310eb14a.chunk.js.LICENSE.txt",
+    "static/media/_index.scss": "/reactwork/static/media/materialdesignicons-webfont.e9db4005.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0d44fb.js",
+    "static/css/2.ae63a4b7.chunk.css",
+    "static/js/2.fc126a82.chunk.js",
+    "static/css/main.84ece478.chunk.css",
+    "static/js/main.99e33c2d.chunk.js"
+  ]
+}
